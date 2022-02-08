@@ -5,7 +5,7 @@ var password=document.getElementById("password").value;
 if(email=="123@gmail.com"&& password=="123")
 {
 
-	window.open("file:///C:/Users/Administrator/Desktop/Janith/outline%20card/outline.html");
+	window.open("https://jveducation.github.io/JVEDUCATION/login.html");
 	return false;
 
 
