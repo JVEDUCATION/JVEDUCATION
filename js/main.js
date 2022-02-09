@@ -25,7 +25,7 @@ var email=document.getElementById("email").value;
 var password=document.getElementById("password").value;
 if(email=="123@gmail.com"&& password=="123")
 {
-	window.open("https://jveducation.github.io/JVEDUCATION/login.html");
+	window.open("login.html");
 	return false;
 
 }
