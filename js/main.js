@@ -1,6 +1,5 @@
 const inputs = document.querySelectorAll(".input");
 
-
 function addcl(){
 	let parent = this.parentNode.parentNode;
 	parent.classList.add("focus");
@@ -32,7 +31,7 @@ if(email=="123@gmail.com"&& password=="123")
 else
 {
 	alert("Login Failed");
-}
+} 
 
 
 
