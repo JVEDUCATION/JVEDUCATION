@@ -25,7 +25,7 @@ var password=document.getElementById("password").value;
 if(email=="123@gmail.com"&& password=="123")
 
 
-	window.open("https://jveduc");
+	window.open("https://jveducaton2.weebly.com/");
 	return false;
 
 }
